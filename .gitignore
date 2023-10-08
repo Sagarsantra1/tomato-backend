@@ -1,0 +1,17 @@
+# Node.js & Express.js
+node_modules/
+npm-debug.log
+yarn-error.log
+.env
+
+# Editor/IDE specific
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log
+
+# Dependency directories
+.jenkins/
+output/

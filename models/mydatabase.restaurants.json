@@ -1,0 +1,305 @@
+[{
+  "_id": {
+    "$oid": "651186bf54030b8d6be48c30"
+  },
+  "city": "kolkata",
+  "name": "Burger King, Lake Market Area",
+  "restaurantImage": "https://b.zmtcdn.com/data/pictures/chains/4/19193204/18e6d83c0f86b4dcc73fd80a91f4d283.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+  "cuisine": ["Fast Food"],
+  "rating": 4.5,
+  "costPerPerson": 300,
+  "deliveryTime": 30,
+  "slug": "burger-king-lake-market-area",
+  "address": "Lake Mall, Rash Behari Avenue, Kolkata - 700019",
+  "images": [
+    "https://b.zmtcdn.com/data/pictures/4/19193204/fe8e247fc487b91cc955dff53cb0dc34.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "https://b.zmtcdn.com/data/pictures/4/19193204/fe8e247fc487b91cc955dff53cb0dc34.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "https://b.zmtcdn.com/data/reviews_photos/156/59cbfac0e85719bb08028907822fa156_1618747396.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "https://b.zmtcdn.com/data/reviews_photos/cea/5f4a27ce4afaac157fbccefe4a4a2cea_1604221467.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "https://b.zmtcdn.com/data/reviews_photos/6bd/1836ee91bbb61c9040f087622b95a6bd_1574094685.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "https://b.zmtcdn.com/data/reviews_photos/5dc/62551b1e5225188049334492e55565dc_1572716719.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+  ],
+  "menu": [
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/c60/e51b27caa300a49d8a301448f8337c60.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Whopper",
+      "price": 279,
+      "description": "A quarter-pound flame-grilled beef patty with lettuce, tomato, mayonnaise, ketchup, pickles, and sliced white onions on a sesame seed bun.",
+      "category": "Burgers"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/9ce/02ccd9fe5bcc29f3417489f888c539ce.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Mutton Whopper",
+      "price": 329,
+      "description": "A quarter-pound flame-grilled mutton patty with lettuce, tomato, mayonnaise, ketchup, pickles, and sliced white onions on a sesame seed bun.",
+      "category": "Burgers"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/f4a/6b1f0161a83572eaa7c1969d2ac7ef4a.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Veggie Whopper",
+      "price": 279,
+      "description": "A quarter-pound flame-grilled veggie patty with lettuce, tomato, mayonnaise, ketchup, pickles, and sliced white onions on a sesame seed bun.",
+      "category": "Burgers"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/8c6/18a23e0106f1892518356da23efa28c6.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Crispy Strips",
+      "price": 199,
+      "description": "Crispy chicken strips served with a dipping sauce of your choice.",
+      "category": "Sides"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/577/1c0866e5046e79a8ef1c4ad135f6b577.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "French Fries",
+      "price": 129,
+      "description": "Crispy golden brown french fries.",
+      "category": "Sides"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/bb1/eba1bc835ff5d92fc47cab8f7ccedbb1.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Onion Rings",
+      "price": 149,
+      "description": "Crispy onion rings served with a dipping sauce of your choice.",
+      "category": "Sides"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/955/e2fce4d6b6602ff4f18223cdd2d14955.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Milkshake",
+      "price": 149,
+      "description": "A thick and creamy milkshake in your choice of flavor.",
+      "category": "Drinks (Beverages)"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/42b/04a04ee85ec1512de3f0df739627142b.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Lipton Ice Tea",
+      "price": 79,
+      "description": "A scoop of your favorite ice cream in a cone.",
+      "category": "Desserts"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651186bf54030b8d6be48c31"
+  },
+  "city": "kolkata",
+  "name": "WOW! Momo, Ballygunge",
+  "restaurantImage": "https://b.zmtcdn.com/data/pictures/chains/0/21060/fb189b9e5576b1429229ec27f19f9311_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+  "cuisine": ["Momos"],
+  "rating": 4.3,
+  "costPerPerson": 250,
+  "deliveryTime": 30,
+  "slug": "wow-momo-ballygunge",
+  "address": "38B, Ballygunge Place, Kolkata - 700019",
+  "images": [
+    "https://b.zmtcdn.com/data/pictures/chains/0/21060/fe92135685160e19b3a464a788876e45.jpg?fit=around|300:273&crop=300:273;*,*",
+    "https://b.zmtcdn.com/data/pictures/chains/0/21060/70649ea3624b891425b7644cf627fac0.jpg?fit=around|300:273&crop=300:273;*,*",
+    "https://b.zmtcdn.com/data/pictures/chains/0/21060/00f4368d2009d91fca719841bedd3ee7.jpg?fit=around|300:273&crop=300:273;*,*",
+    "https://b.zmtcdn.com/data/pictures/chains/0/21060/18df05cee503aafc336f9a809fad79a3.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "https://b.zmtcdn.com/data/pictures/chains/0/21060/c0addcd341f0f884e6a9991aa98d7b61.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2Av",
+    "https://b.zmtcdn.com/data/pictures/chains/0/21060/fe92135685160e19b3a464a788876e45.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+  ],
+  "menu": [
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/453/0308d3900fd33ee065f9ed445d83c453.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Veg Delight Momo in Molten Cheesy Sauce",
+      "price": 185,
+      "description": "Steam Veg Delight Momo tossed in Molten Cheesy Sauce",
+      "category": "Steam Momo"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/fa1/d6446ff442941c6b31ecd9c544b35fa1.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Delight Momo in Molten Cheesy Sauce",
+      "price": 185,
+      "description": "Chicken Delight Steam Momo tossed in Molten Cheesy Sauce",
+      "category": "Steam Momo"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/3b2/2ba30b9b1d48d8bd7d41ea669d61e3b2.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Masala Fried Momo",
+      "price": 255,
+      "description": "Filled with soft juicy bonless Chicken,Onion,Coriander and mixed with the flavour of Indian spices",
+      "category": "Fried Momo"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/fc1/0c943ec055539aa66a7b4fe3d0646fc1.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Kothe Momo",
+      "price": 199,
+      "description": "A spicy chicken momo tossed in a kothe sauce made with tomatoes, onions, and spices.",
+      "category": "Fried Momo"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/e7c/7f57e909e28707be1f00cdbcd8d46e7c.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Darjeeling Fried Peri Peri Momo",
+      "price": 239,
+      "description": "Bestseller. 15 votes.",
+      "category": "Peri Peri Momo"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/e7c/7f57e909e28707be1f00cdbcd8d46e7c.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Masala Fried Peri Peri Momo",
+      "price": 279,
+      "description": "Crisp Fried Chicken Masala Momo, to make it Wow! place Momos in Shake Well bottle and shake vigorously till the momos are evenly coated with the sauce.",
+      "category": "Peri Peri Momo"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/384/d0ae03264225abec7091425dcb310384.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Veg Delight Fried Peri Peri Momo",
+      "price": 169,
+      "description": "Introducing Green Delight Momos: 5 pieces of vegetable-packed, herb-infused Momos with a green Peri Peri sauce.",
+      "category": "Peri Peri MomoMomos"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651186bf54030b8d6be48c32"
+  },
+  "city": "kolkata",
+  "name": "Arsalan, Prince Anwar Shah Road",
+  "restaurantImage": "https://b.zmtcdn.com/data/pictures/3/20679123/dda0a8d19448adf672c0905f68c1afb2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+  "cuisine": ["North Indian", "Biryani"],
+  "rating": 4.4,
+  "costPerPerson": 300,
+  "deliveryTime": 30,
+  "slug": "arsalan-prince-anwar-shah-road",
+  "address": "432/2, Prince Anwar Shah Road, Kolkata - 700034",
+  "images": [
+    "https://b.zmtcdn.com/data/pictures/chains/7/20797/a5b149a2ed8e78709f56093578862b93.jpg?fit=around|300:273&crop=300:273;*,*",
+    "https://b.zmtcdn.com/data/pictures/chains/7/20797/3249e292c0a6ad5a767c49eee411b264.jpg?fit=around|300:273&crop=300:273;*,*",
+    "https://b.zmtcdn.com/data/pictures/chains/7/20797/73b4aaf4d98896d58927653e1c473aba.jpg?fit=around|300:273&crop=300:273;*,*",
+    "https://b.zmtcdn.com/data/pictures/chains/7/20797/4233cb8afbc70e4602293043db0a47a9.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+    "https://b.zmtcdn.com/data/pictures/chains/7/20797/184e7931b7db899f7c54118d948675a3.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+  ],
+  "menu": [
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/824/5b8340ac451fd911024c1b21f9ad9824.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Biryani",
+      "price": 299,
+      "description": "Aromatic basmati rice layered with succulent chicken pieces, cooked with spices and herbs.",
+      "category": "Biryanis"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/b00/1a3b7be4decd67bbc8950c5fb7e36b00.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Mutton Biryani",
+      "price": 329,
+      "description": "Aromatic basmati rice layered with succulent mutton pieces, cooked with spices and herbs.",
+      "category": "Biryanis"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/d50/5bdffa700a2c936fe873de45e0d14d50.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Kebab",
+      "price": 249,
+      "description": "Tender chicken marinated in spices and grilled to perfection.",
+      "category": "Kebabs"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/d64/2a29e933d90acca8247b08a127645d64.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Mutton Kebab",
+      "price": 279,
+      "description": "Tender mutton marinated in spices and grilled to perfection.",
+      "category": "Kebabs"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/bcf/a33c2ad26d250a6c9c51061a22bcfbcf.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chicken Tikka Masala",
+      "price": 299,
+      "description": "Chicken pieces marinated in yogurt and spices, grilled in a tandoor oven, and then cooked in a creamy tomato sauce.",
+      "category": "Curries"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/67e/f448958b39d38dd74533644d15a2667e.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Mutton Tikka Masala",
+      "price": 329,
+      "description": "Mutton pieces marinated in yogurt and spices, grilled in a tandoor oven, and then cooked in a creamy tomato sauce.",
+      "category": "Curries"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/c3e/5a58de48dc0f48a36705ba86724bbc3e.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Naan Bread",
+      "price": 59,
+      "description": "A soft and fluffy flatbread made from wheat flour.",
+      "category": "Breads"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/646/7ad3b3dac40a05d5221f544ce2bc5646.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Tandoori Roti",
+      "price": 49,
+      "description": "A whole wheat flatbread cooked in a tandoor oven.",
+      "category": "Breads"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "651186bf54030b8d6be48c33"
+  },
+  "city": "kolkata",
+  "name": "Mio Amore, Topsia",
+  "restaurantImage": "https://b.zmtcdn.com/data/pictures/chains/4/25234/e8918b1c23195aad8b949dfffd80125b_featured_v2.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+  "cuisine": ["Bakery", "Desserts", "Fast Food"],
+  "rating": 4.4,
+  "costPerPerson": 200,
+  "deliveryTime": 30,
+  "slug": "mio-amore-topsia",
+  "address": "18 A, Kustia Masjid Bari Lane, Topsia, Kolkata - 700089",
+  "images": [],
+  "menu": [
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/fbe/aaf5fdce738b31e4aa8842f897bf8fbe.png?fit=around|130:130&crop=130:130;*,*",
+      "name": "Black Forest Cake",
+      "price": 349,
+      "description": "A chocolate cake layered with whipped cream and cherries.",
+      "category": "Cakes"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/0d2/ac40c4d7c61bf76cd696a726894320d2.png?fit=around|130:130&crop=130:130;*,*",
+      "name": "Red Velvet Cake",
+      "price": 349,
+      "description": "A moist red cake layered with cream cheese frosting.",
+      "category": "Cakes"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/1d0/7f64efa5cc1e47d951022822c6d7f1d0.png?fit=around|130:130&crop=130:130;*,*",
+      "name": "Vegetable Patties",
+      "price": 179,
+      "description": "Grilled chicken breast with lettuce, tomato, and mayonnaise on a toasted bun.",
+      "category": "Savouries"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/013/c98464484f37831f9751e46780895013.png?fit=around|130:130&crop=130:130;*,*",
+      "name": "Paneer Puff",
+      "price": 159,
+      "description": "A mix of vegetables such as cucumber, tomato, and lettuce with mayonnaise on a toasted bun.",
+      "category": "Savouries"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/b3f/cae9a77dc20b4debc96aa232c53ecb3f.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Salted Cookies [150 grams]",
+      "price": 29,
+      "description": "A classic pizza with tomato sauce, mozzarella cheese, and fresh basil.",
+      "category": "Cookies"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/953/d45b9589d93dbf5e8f157a29b9e87953.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Cashew Nut Cookies",
+      "price": 29,
+      "description": "A classic pizza with tomato sauce, mozzarella cheese, and pepperoni.",
+      "category": "Cookies"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/07c/7bd2b12b8b7d9ce038ce98fb118ab07c.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Chocolate Cookies",
+      "price": 29,
+      "description": "A spicy pasta dish with tomato sauce, garlic, chili flakes, and basil.",
+      "category": "Cookies"
+    },
+    {
+      "image": "https://b.zmtcdn.com/data/dish_photos/af5/44412db4588a5ae237dd5c726e82eaf5.jpg?fit=around|130:130&crop=130:130;*,*",
+      "name": "Fruit & Nut Cookies [150 grams]",
+      "price": 29,
+      "description": "A classic pasta dish with eggs, Parmesan cheese, and bacon.",
+      "category": "Cookies"
+    }
+  ]
+}]
